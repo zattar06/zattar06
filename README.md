@@ -2,7 +2,7 @@
 
 <p>
   
-- 🔭 Estou a procura de minha primeira oportunidade de trabalho. Meu maior sonho é poder continuar aprendendo e vivendo do que eu amo, que seria no desenvolvimento de aplicativos.
+- 🔭 Estou a procura de minha primeira oportunidade de trabalho. Meu principal objetivo é poder continuar aprendendo e vivendo do que eu amo, que seria no desenvolvimento de aplicativos.
   
 - 🌱 Atualmente estudo desenvolvimento android, com foco na linguagem de programação Kotlin e Ciência da Computação na Estácio.
 </p>
