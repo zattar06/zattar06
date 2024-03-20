@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zattar06&show_icons=true&theme=gotham&layout=compact)
 
-## Portfolio:
+## Portifólio:
 - [Kotlin - Calculadora IMC](https://github.com/zattar06/CalculadoraIMC)
 
 <p align="left">
