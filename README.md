@@ -19,7 +19,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zattar06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zattar/)
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=zattar06&show_icons=true&theme=gotham)
+![zattar06 GitHub stats](https://github-readme-stats.vercel.app/api?username=zattar06&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zattar06&show_icons=true&theme=gotham&layout=compact)
 
 ## Portfolio:
 - [Kotlin - Calculadora IMC](https://github.com/zattar06/CalculadoraIMC)
