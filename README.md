@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=435&height=60&lines=Mobile+Developer;Android+%7C+Kotlin" alt="Typing SVG" /></a></p>
   
-- 🔭 Estou a procura de minha primeira oportunidade de trabalho. Meu principal objetivo é poder continuar aprendendo e vivendo do que eu amo, que seria no desenvolvimento de aplicativos.
+- 🔭 Atuo como desenvolvedor mobile com foco em desenvolvimento de aplicativos Android utilizando Kotlin e Java. Sou experiente em todas as etapas do ciclo de vida do software, desde o planejamento até a manutenção. Estou constantemente em busca de novos desafios para aprimorar minhas habilidades e entregar soluções inovadoras.
   
 - 🌱 Atualmente estudo desenvolvimento android, com foco na linguagem de programação Kotlin e Ciência da Computação na Estácio.
 </p>
@@ -18,7 +18,7 @@
 <details>
 <summary>👨‍💻 Mais sobre mim:</summary>
   
-- 💬 Eu tenho 23 anos e atualmente moro no Brasil. Eu tenho um inglês mediano e uma experiência com JavaScript, Node.JS e Kotlin. Minhas principais habilidades são a comunicação, criativdade na resolução de problemas, inteligência emocional e a colaboração.
+- 💬 Tenho 23 anos e moro no Brasil. Minha experiência inclui desenvolvimento com Kotlin, Java, e outras tecnologias. Destaco minhas habilidades em comunicação assertiva, criatividade na resolução de problemas, e colaboração em equipes interdisciplinares.
   
 - ⚡ Aproveito meu tempo livre lendo livros bons, desde um Sherlock Holmes até um sobre expressão corporal, além de amar ver filmes e jogar um bom video game! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
 </details>
@@ -41,15 +41,17 @@
 </p>
 
 <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"
-  </div>
+    <h3>Linguagens de Programação</h3>
+    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
+    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL logo">
+</div>
 
   <div style="flex-basis: 48%;">
     <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"
-  </div>
+    <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Retrofit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/retrofit/retrofit-original.svg" height="40" alt="Retrofit logo">
+    <img align="center" alt="Jetpack Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Jetpack Compose logo"> <!-- Use o ícone de Android Studio como substituto -->
+</div>
