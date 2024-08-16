@@ -43,7 +43,8 @@
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
-    <img align="center" alt="Database" height="30" width="40" src="https://img.icons8.com/ios/50/database.png" />
+    <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+
 </div>
 
 <div style="flex-basis: 48%;">
@@ -51,7 +52,6 @@
     <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="API" height="30" width="40" src="https://img.icons8.com/ios/50/api.png" />
     <img align="center" alt="Jetpack Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Jetpack Compose logo"> <!-- Use o ícone de Android Studio como substituto -->
 </div>
 
