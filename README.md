@@ -27,9 +27,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zattar/)
 <a href = "mailto:gabriel.zattar2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![zattar06 GitHub stats](https://github-readme-stats.vercel.app/api?username=zattar06&show_icons=true&theme=gotham&include_all_commits=true)
+![zattar06 GitHub stats](https://github-readme-stats.vercel.app/api?username=zattar06&show_icons=true&theme=dark&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zattar06&show_icons=true&theme=gotham&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zattar06&show_icons=true&theme=dark&layout=compact)
 
 ## Portifólio:
 - [Kotlin - Calculadora IMC](https://github.com/zattar06/CalculadoraIMC)
@@ -44,14 +44,16 @@
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
-    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL logo">
+    <img align="center" alt="Database" height="30" width="40" src="https://img.icons8.com/ios/50/database.png" />
 </div>
 
-  <div style="flex-basis: 48%;">
+<div style="flex-basis: 48%;">
     <h3>Ferramentas & Frameworks</h3>
     <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Retrofit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/retrofit/retrofit-original.svg" height="40" alt="Retrofit logo">
+    <img align="center" alt="API" height="30" width="40" src="https://img.icons8.com/ios/50/api.png" />
     <img align="center" alt="Jetpack Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Jetpack Compose logo"> <!-- Use o ícone de Android Studio como substituto -->
 </div>
+
+
