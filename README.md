@@ -23,7 +23,7 @@
 
 <br>
 
-- 💬 Tenho 25 anos, moro no Rio de Janeiro e trabalho remotamente. Além do código, me interesso muito por como as coisas funcionam por trás — seja um sistema, um livro ou uma cena de filme bem construída.
+- 💬 Tenho 23 anos, moro no Rio de Janeiro e trabalho remotamente. Além do código, me interesso muito por como as coisas funcionam por trás — seja um sistema, um livro ou uma cena de filme bem construída.
 
 - 📚 No tempo livre leio de tudo: Sherlock Holmes, livros de linguagem corporal, psicologia, comunicação... Acredito que quanto mais repertório você tem fora da tech, melhor você resolve problemas dentro dela.
 
@@ -44,8 +44,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=zattar06&theme=gotham&hide_border=true" alt="GitHub Streak" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zattar06&theme=gotham&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=zattar06&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,23 +66,12 @@
 
 **Linguagens**
 
-<p>
-  <img alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</p>
+<img alt="Kotlin" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;<img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 **Android & Frameworks**
 
-<p>
-  <img alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img alt="Jetpack Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
-  <img alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-</p>
+<img alt="Android Studio" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">&nbsp;&nbsp;<img alt="Jetpack Compose" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">&nbsp;&nbsp;<img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 
 **Ferramentas**
 
-<p>
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">
-  <img alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg">
-</p>
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;<img alt="Bitbucket" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">&nbsp;&nbsp;<img alt="Gradle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg">
